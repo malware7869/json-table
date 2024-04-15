@@ -1,0 +1,43 @@
+[
+    {
+        "id" :1,
+        "image":"images/51Ou8xuZGuL._AC_SY780_.jpg",
+        "name": "silve gold watch",
+        "price": "200$",
+        "inventory": 4,
+        "productCode": "123"
+    },
+    {
+        "id" :2,
+        "image":"images/61IduqXygwL._AC_UY350_.jpg",
+        "name": "silve gold watch",
+        "price": "200$",
+        "inventory": 14,
+        "productCode": "132"
+    },
+    {
+    
+        "id" :3,
+        "image":"images/png-clipart-pocket-watch-chronograph-watch-watch-accessory-accessories (1).png",
+        "name": "black red",
+        "price": "200$",
+        "inventory": 12,
+        "productCode": "213"
+    },
+    {
+        "id" :4,
+        "image":"images/png-clipart-pocket-watch-chronograph-watch-watch-accessory-accessories.png",
+        "name": "black red",
+        "price": "200$",
+        "inventory": 12,
+        "productCode": "213"
+    },
+    {
+        "id" :5,
+        "image":"images/png-clipart-watches-watches.png",
+        "name": "black white",
+        "price": "400$",
+        "inventory": 10,
+        "productCode": "2134"
+    }
+]
